@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "tehbilly",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"tehbilly","repositoryName":"blog","branch":"gh-pages","cname":"tehbilly.com/blog"},"site":{"url":"http://tehbilly.com/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//tehbilly.github.io/blog/themes/Casper"}}
